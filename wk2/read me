@@ -1,1 +1,9 @@
-Week 2 exercises solved
+Week 2 exercises solved , ref https://www.coursera.org/learn/python-crash-course/home/week/2
+I learn about different data types in Python, how to identify them, and how to convert between them. 
+I also learn how to use variables to assign data and to reference variables.
+Learning Objectives
+Differentiate and convert between different data types utilizing variables
+Define and call functions utilizing parameters and return data
+Refactor code and write comments to reduce complexity and enhance code readability and code reuse
+Compare values using equality operators and logical operators
+Build complex branching scripts utilizing if, else and elif statements
